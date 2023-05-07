@@ -18,4 +18,6 @@ Aplikace, která se zabývá psychickýma poruchama a seberozvojem.
 4. Aplikace je úspěšně nainstalována!
 
 
-Poznámka: Pro zobrazení upozornění na Android 13 a výš je nutné povolit notifikace bez platného kanálu.
+# Poznámka
+
+Pro zobrazení upozornění na Android 13 a výš je nutné povolit notifikace bez platného kanálu.
